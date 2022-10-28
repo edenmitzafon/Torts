@@ -1,0 +1,17 @@
+a {
+  text-decoration: none;
+  color: black;
+}
+
+#wrapper2 {
+  margin: 11.5vw;
+  padding: 1vw;
+}
+
+.card {
+margin: auto;  
+}
+
+body {
+  background-color: black;
+}
